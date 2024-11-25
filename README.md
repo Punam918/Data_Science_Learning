@@ -1,1 +1,1 @@
-The problems I encountered while learning data science are here.
+A learning repository for Data Science, focusing on foundational concepts and practical applications. This repository explores libraries like NumPy, pandas, and Matplotlib to perform data manipulation, analysis, and visualization while strengthening programming skills. Ideal for beginners and enthusiasts aiming to bridge programming with Data Science.
